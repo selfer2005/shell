@@ -29,3 +29,4 @@ do
 #
 done								#End of for loop for du directories
 #
+#this is a interting shell
