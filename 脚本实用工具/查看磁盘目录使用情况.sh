@@ -29,3 +29,5 @@ do
 #
 done								#End of for loop for du directories
 #
+
+ok let me checkt
